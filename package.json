@@ -1,0 +1,16 @@
+{
+  "name": "notification-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0",
+    "parcel": "^2.9.0"
+  }
+}
